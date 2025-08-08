@@ -1,5 +1,8 @@
 {
   "name": "laravel-translations",
+  "author": "Lorenzo Verheecke",
+  "license": "MIT",
+  "publisher": "VerheeckeLorenzo",
   "displayName": "laravel-translations",
   "description": "Easily go to your translations in the lang folder.",
   "version": "0.0.1",
